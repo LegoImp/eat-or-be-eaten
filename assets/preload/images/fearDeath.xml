@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fearDeath.png">
+<SubTexture name="bite0000" x="456" y="0" width="456" height="892" frameX="0" frameY="-24" frameWidth="436" frameHeight="896" />
+<SubTexture name="bite0001" x="0" y="0" width="456" height="916" frameX="0" frameY="0" frameWidth="436" frameHeight="896" />
+<SubTexture name="bite0002" x="912" y="0" width="453" height="886" frameX="-1" frameY="-30" frameWidth="436" frameHeight="896" />
+<SubTexture name="bite0003" x="1365" y="0" width="443" height="836" frameX="-7" frameY="-80" frameWidth="436" frameHeight="896" />
+</TextureAtlas>

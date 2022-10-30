@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="horrorsans.png">
+<SubTexture name="horror down0004" x="1800" y="0" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0005" x="2250" y="0" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0006" x="2700" y="0" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0007" x="3150" y="0" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0008" x="3150" y="0" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0009" x="0" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0010" x="0" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0011" x="0" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0012" x="0" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0013" x="0" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0014" x="0" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0015" x="0" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0016" x="0" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0017" x="450" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0018" x="900" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0019" x="900" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0020" x="1350" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0021" x="1350" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0022" x="1800" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0023" x="1800" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0024" x="2250" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horror down0025" x="2250" y="680" width="450" height="680" frameX="0" frameY="0" frameWidth="450" frameHeight="680" />
+<SubTexture name="horrorsurprise_attack0000" x="2700" y="680" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0001" x="2700" y="680" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0002" x="3355" y="680" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0003" x="3355" y="680" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0004" x="0" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0005" x="0" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0012" x="655" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0013" x="655" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0014" x="655" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0015" x="655" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0016" x="655" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0017" x="655" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0018" x="1310" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0019" x="1965" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0020" x="2620" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0021" x="2620" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0022" x="3275" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0023" x="3275" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0024" x="3930" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0025" x="4585" y="1473" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0026" x="0" y="2266" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0027" x="655" y="2266" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0028" x="1310" y="2266" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horrorsurprise_attack0029" x="1965" y="2266" width="655" height="793" frameX="0" frameY="0" frameWidth="655" frameHeight="793" />
+<SubTexture name="horror idle0000" x="2620" y="2266" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0001" x="2620" y="2266" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0002" x="3064" y="2266" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0003" x="3064" y="2266" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0004" x="3508" y="2266" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0005" x="3508" y="2266" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0006" x="3952" y="2266" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0007" x="3952" y="2266" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0008" x="0" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0009" x="0" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0010" x="444" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0011" x="444" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0012" x="888" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0013" x="888" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0014" x="1332" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0015" x="1332" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0016" x="1776" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0017" x="1776" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0018" x="2220" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0019" x="2220" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0020" x="2664" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0021" x="2664" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0022" x="3108" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0023" x="3108" y="3059" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0024" x="0" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0025" x="0" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0026" x="444" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0027" x="444" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0028" x="888" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0029" x="888" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0030" x="1332" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0031" x="1332" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0032" x="1776" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0033" x="1776" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0034" x="2220" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0035" x="2220" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0036" x="2664" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0037" x="2664" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0038" x="3108" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0039" x="3108" y="3737" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0040" x="0" y="4415" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0041" x="0" y="4415" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0042" x="444" y="4415" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror idle0043" x="444" y="4415" width="444" height="678" frameX="0" frameY="0" frameWidth="444" frameHeight="678" />
+<SubTexture name="horror left0000" x="888" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0001" x="888" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0004" x="1864" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0005" x="1864" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0006" x="2352" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0007" x="2352" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0008" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0009" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0010" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0011" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0012" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0013" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0014" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0015" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0016" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0017" x="2840" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0018" x="3328" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0019" x="3328" y="4415" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0020" x="0" y="5093" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0021" x="0" y="5093" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0022" x="488" y="5093" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0023" x="488" y="5093" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0024" x="976" y="5093" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror left0025" x="976" y="5093" width="488" height="671" frameX="0" frameY="0" frameWidth="488" frameHeight="671" />
+<SubTexture name="horror right0000" x="1464" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0002" x="2088" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0003" x="2088" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0004" x="2712" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0005" x="2712" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0006" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0007" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0008" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0009" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0010" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0011" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0012" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0013" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0014" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0015" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0016" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0017" x="3336" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0018" x="3960" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0019" x="3960" y="5093" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0020" x="0" y="5767" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0021" x="0" y="5767" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0022" x="624" y="5767" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0023" x="624" y="5767" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0024" x="1248" y="5767" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror right0025" x="1248" y="5767" width="624" height="674" frameX="0" frameY="0" frameWidth="624" frameHeight="674" />
+<SubTexture name="horror up0000" x="1872" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0001" x="1872" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0002" x="2322" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0003" x="2322" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0004" x="2772" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0005" x="2772" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0006" x="3222" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0007" x="3222" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0008" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0009" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0010" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0011" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0012" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0013" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0014" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0015" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0016" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0017" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0018" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0019" x="3672" y="5767" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0020" x="0" y="6485" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0021" x="0" y="6485" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0022" x="450" y="6485" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0023" x="450" y="6485" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0024" x="900" y="6485" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+<SubTexture name="horror up0025" x="900" y="6485" width="450" height="718" frameX="0" frameY="0" frameWidth="450" frameHeight="718" />
+</TextureAtlas>

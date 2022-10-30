@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "aliza left0"
+		},
+		{
+			"offsets": [
+				-5,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "aliza down0"
+		},
+		{
+			"offsets": [
+				-5,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "aliza up0"
+		},
+		{
+			"offsets": [
+				23,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "aliza leftmiss"
+		},
+		{
+			"offsets": [
+				-5,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "aliza downmiss"
+		},
+		{
+			"offsets": [
+				-5,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "aliza upmiss"
+		},
+		{
+			"offsets": [
+				-4,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "aliza rightmiss"
+		},
+		{
+			"offsets": [
+				8,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "aliza soulbreak"
+		},
+		{
+			"offsets": [
+				8,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "aliza emptyloop"
+		},
+		{
+			"offsets": [
+				8,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "aliza emptyconfirm"
+		},
+		{
+			"offsets": [
+				200,
+				-5
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "dodge",
+			"indices": [],
+			"name": "aliza firstdodge"
+		},
+		{
+			"offsets": [
+				1,
+				-6
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hurt",
+			"indices": [],
+			"name": "aliza hurt"
+		},
+		{
+			"offsets": [
+				-4,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "aliza right0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "aliza idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aliza",
+	"position": [
+		0,
+		480
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-90,
+		-50
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

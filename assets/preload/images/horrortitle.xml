@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="horrortitle.png">
+<SubTexture name="titleloop0000" x="342" y="281" width="343" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleloop0001" x="0" y="281" width="342" height="280" frameX="0" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleloop0002" x="0" y="0" width="344" height="281" frameX="0" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0000" x="344" y="0" width="344" height="281" frameX="0" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0001" x="344" y="0" width="344" height="281" frameX="0" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0002" x="688" y="0" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0003" x="688" y="279" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0004" x="0" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0005" x="0" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0006" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0007" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0008" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0009" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0010" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0011" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0012" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0013" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0014" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0015" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0016" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0017" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0018" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0019" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0020" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0021" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0022" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0023" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0024" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0025" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0026" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0027" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0028" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0029" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0030" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0031" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0032" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0033" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0034" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0035" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0036" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0037" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0038" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+<SubTexture name="titleconfirm0039" x="342" y="561" width="342" height="279" frameX="-2" frameY="-7" frameWidth="334" frameHeight="274" />
+</TextureAtlas>

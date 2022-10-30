@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "horrorleft"
+		},
+		{
+			"offsets": [
+				45,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "horrorleft"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "horrordown"
+		},
+		{
+			"offsets": [
+				0,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "horrorup"
+		},
+		{
+			"offsets": [
+				-7,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "horrorright"
+		},
+		{
+			"offsets": [
+				-7,
+				-4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				6,
+				7
+			],
+			"name": "horrorright"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "horroridle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				177
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "horrorattack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/axesans",
+	"position": [
+		0,
+		-26
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-155,
+		27
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1
+}

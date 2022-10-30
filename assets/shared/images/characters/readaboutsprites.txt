@@ -1,0 +1,2 @@
+I removed some of the frames in the horrorsans and aliza xml files and didn't bother to rerender the spritesheets again, because I do it in a much different way and I'm lazy. 
+I don't have adobe, so shut up about the way I did this with the sprites, cause it still works.

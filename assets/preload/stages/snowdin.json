@@ -1,0 +1,15 @@
+{
+	"directory": "horror",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [20, -100],
+	"girlfriend": [0, 0],
+	"opponent": [0, -100],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [0, -100],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

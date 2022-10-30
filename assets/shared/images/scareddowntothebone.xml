@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scareddowntothebone.png">
+<SubTexture name="SHUTTHEFUCKUPSANS0000" x="0" y="0" width="371" height="350" frameX="0" frameY="0" frameWidth="351" frameHeight="330" />
+<SubTexture name="SHUTTHEFUCKUPSANS0001" x="742" y="222" width="67" height="101" frameX="-56" frameY="-247" frameWidth="351" frameHeight="330" />
+<SubTexture name="SHUTTHEFUCKUPSANS0002" x="742" y="0" width="138" height="222" frameX="-38" frameY="-127" frameWidth="351" frameHeight="330" />
+<SubTexture name="SHUTTHEFUCKUPSANS0003" x="359" y="350" width="250" height="311" frameX="-28" frameY="-39" frameWidth="351" frameHeight="330" />
+<SubTexture name="SHUTTHEFUCKUPSANS0004" x="0" y="350" width="359" height="348" frameX="0" frameY="-2" frameWidth="351" frameHeight="330" />
+<SubTexture name="SHUTTHEFUCKUPSANS0005" x="371" y="0" width="371" height="350" frameX="0" frameY="0" frameWidth="351" frameHeight="330" />
+<SubTexture name="SHUTTHEFUCKUPSANS0006" x="0" y="350" width="359" height="348" frameX="0" frameY="-2" frameWidth="351" frameHeight="330" />
+</TextureAtlas>

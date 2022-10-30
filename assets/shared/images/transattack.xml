@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="transattack.png">
+<SubTexture name="transition0000" x="0" y="0" width="884" height="482" frameX="0" frameY="0" frameWidth="864" frameHeight="462" />
+<SubTexture name="transition0001" x="884" y="0" width="342" height="334" frameX="0" frameY="0" frameWidth="864" frameHeight="462" />
+<SubTexture name="transition0002" x="0" y="482" width="884" height="391" frameX="0" frameY="-90" frameWidth="864" frameHeight="462" />
+<SubTexture name="transition0003" x="0" y="873" width="570" height="148" frameX="-314" frameY="-333" frameWidth="864" frameHeight="462" />
+<SubTexture name="transition0004" x="0" y="0" width="884" height="482" frameX="0" frameY="0" frameWidth="864" frameHeight="462" />
+</TextureAtlas>

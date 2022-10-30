@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "horror idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "horror left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				-7
+			],
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"name": "horror left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "horror down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "horror up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-4
+			],
+			"indices": [
+				6,
+				7
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "horror right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "horror right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				111
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "horrorsurprise_attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/horrorsans",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-150,
+		10
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1
+}
