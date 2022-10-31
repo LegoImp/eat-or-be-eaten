@@ -133,7 +133,7 @@ class PlayState extends MusicBeatState
 	public var notes:FlxTypedGroup<Note>;
 	public var unspawnNotes:Array<Note> = [];
 	public var eventNotes:Array<EventNote> = [];
-	var damNumbers:FlxText;
+	var damNumberTween:FlxTween;
 
 	private var strumLine:FlxSprite;
 
@@ -2930,34 +2930,38 @@ class PlayState extends MusicBeatState
 	}
 	public function hpNumberDiff(){
 		if(options.OptionsState.curDifficulty == 0){
+			var damNumbers:FlxText;
 			damNumbers = new FlxText(200,220,800, "1");
 			damNumbers.setFormat(Paths.font("hachicro.TTF"), 60, FlxColor.RED, LEFT);
 			damNumbers.setBorderStyle(OUTLINE, FlxColor.BLACK,5);
 			add(damNumbers);
-			FlxTween.tween(damNumbers, {y: 175}, .5, {ease: FlxEase.backInOut, onComplete: function(twn:FlxTween) {
+			damNumberTween = FlxTween.tween(damNumbers, {y: 175}, .5, {ease: FlxEase.backInOut, onComplete: function(twn:FlxTween) {
 			remove(damNumbers);
 		}
 	});
 		}else if(options.OptionsState.curDifficulty == 1){
+			var damNumbers:FlxText;
 			damNumbers = new FlxText(200,220,800, "2");
 			damNumbers.setFormat(Paths.font("hachicro.TTF"), 60, FlxColor.RED, LEFT);
 			damNumbers.setBorderStyle(OUTLINE, FlxColor.BLACK,5);
 			add(damNumbers);
-			FlxTween.tween(damNumbers, {y: 175}, .5, {ease: FlxEase.backInOut, onComplete: function(twn:FlxTween) {
+			damNumberTween = FlxTween.tween(damNumbers, {y: 175}, .5, {ease: FlxEase.backInOut, onComplete: function(twn:FlxTween) {
 			remove(damNumbers);
 		}
 	});
 		}else if(options.OptionsState.curDifficulty == 2){
+			var damNumbers:FlxText;
 			damNumbers = new FlxText(200,220,800, "5");
 			damNumbers.setFormat(Paths.font("hachicro.TTF"), 60, FlxColor.RED, LEFT);
 			damNumbers.setBorderStyle(OUTLINE, FlxColor.BLACK,5);
 			add(damNumbers);
-		FlxTween.tween(damNumbers, {y: 175}, .5, {ease: FlxEase.backInOut, onComplete: function(twn:FlxTween) {
+			damNumberTween = FlxTween.tween(damNumbers, {y: 175}, .5, {ease: FlxEase.backInOut, onComplete: function(twn:FlxTween) {
 			remove(damNumbers);
 		}
 	});
 		}
 	}
+	
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
 			case 'Hey!':
@@ -3207,7 +3211,8 @@ class PlayState extends MusicBeatState
 					dad.playAnim('attack',true);
 					dad.specialAnim = true;
 					var sansAttack:FlxTimer;
-					new FlxTimer().start(.4, function(tmr:FlxTimer)
+					var attackStart:FlxTimer;
+					attackStart = new FlxTimer().start(.4, function(tmr:FlxTimer)
 					{
 						FlxG.camera.zoom += .15;
 						if (dodged == true) // use this variable to dodge!
@@ -3246,7 +3251,7 @@ class PlayState extends MusicBeatState
 								attacking = false;
 								damaged = false;
 							});
-							sansAttack.reset(0.6); //In case it's called before it could finish
+						sansAttack.reset(0.6); //In case it's called before it could finish
 				case 'attackWarning':
 					var warning:FlxSound;
 					warning = new FlxSound().loadEmbedded(Paths.sound('attack-warningt'));
@@ -3270,7 +3275,9 @@ class PlayState extends MusicBeatState
 					attacking=true;
 					dad.playAnim('attack',true);
 					dad.specialAnim = true;
-					new FlxTimer().start(.25, function(tmr:FlxTimer)
+					var sansAttack:FlxTimer;
+					var attackStart:FlxTimer;
+					attackStart = new FlxTimer().start(.25, function(tmr:FlxTimer)
 					{
 						FlxG.camera.zoom += .15;
 						if (dodged == true) // use this variable to dodge!
@@ -3300,7 +3307,7 @@ class PlayState extends MusicBeatState
 								fearMultiplier += 0.05;
 								trace(hp); //Just normal attacks now
 						}});
-						new FlxTimer().start(.27, function(tmr:FlxTimer)
+					sansAttack = new FlxTimer().start(.29, function(tmr:FlxTimer)
 							{
 								dad.specialAnim = false;
 								attacking = false;
@@ -3310,6 +3317,7 @@ class PlayState extends MusicBeatState
 							{
 								FlxG.camera.zoom = .9;
 							}
+						sansAttack.reset(0.29); //In case it's called before it could finish
 					case 'TransitionAttack'://He's huuungrrrry =)
 						trace('Detecting Attack/Dodge!');
 						attacking=true;
