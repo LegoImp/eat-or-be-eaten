@@ -46,7 +46,6 @@ class GameOverSubstate extends MusicBeatSubstate
 		"Sans is unpredicatable and can't be trusted. Every time he's about to attack you, press SPACE to dodge.",
 		"Now...\nGo and retry."
 	];
-	public static var deathTextNumberer:Int;
 	var camFollow:FlxPoint;
 	var camFollowPos:FlxObject;
 	var updateCamera:Bool = false;
@@ -136,6 +135,7 @@ class GameOverSubstate extends MusicBeatSubstate
 							}
 						else {
 						canSkip = true;
+						var deathTextNumberer:Int;
 						deathTextNumberer = FlxG.random.int(0,11);
 						deathText = new FlxTypeText(780, 110, 400, deathTextNumber[deathTextNumberer]);
 						deathText.setFormat(Paths.font("Gabriola.ttf"), 40, FlxColor.BLACK, LEFT);
